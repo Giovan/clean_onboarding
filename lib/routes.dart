@@ -1,4 +1,4 @@
-/* import 'package:clean_onboarding/screens/home/home_screen.dart';
+import 'package:clean_onboarding/screens/home/home_screen.dart';
 import 'package:clean_onboarding/screens/login/login_screen.dart';
 import 'package:clean_onboarding/screens/signup/signup_screen.dart';
 import 'package:clean_onboarding/screens/splash/splash.dart';
@@ -16,4 +16,4 @@ final routes = {
   // When navigating to the "/profile" route, build the ProfileScreen BLOC.
   // '/profile': (context) => ProfileScreen(),
   // '/recover-password': (context) => RecoverPasswordScreen(),
-}; */
+};

@@ -1,4 +1,4 @@
-import 'package:clean_onboarding/data/database_helper.dart';
+import 'package:clean_onboarding/data/onboarding_calls/database_helper.dart';
 
 enum AuthState{ LOGGED_IN, LOGGED_OUT }
 
